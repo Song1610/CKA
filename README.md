@@ -1,2 +1,6 @@
 # CKA
-Udemy CKA study
+Udemy CKA study repositroy
+
+
+- YAML Introduction
+- 
