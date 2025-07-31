@@ -1,10 +1,10 @@
 # Yaml Introduction 목차
-- [YAML-1]()
-- [YAML-2]()
-- [YAML-3]()
-- [YAML-4]()
-- [YAML-5]()
-- [YAML-6]()
+- [YAML-1](https://github.com/Song1610/CKA/blob/main/YAML_Introduction/food1.yml)
+- [YAML-2](https://github.com/Song1610/CKA/blob/main/YAML_Introduction/food2.yml)
+- [YAML-3](https://github.com/Song1610/CKA/blob/main/YAML_Introduction/food3.yml)
+- [YAML-4](https://github.com/Song1610/CKA/blob/main/YAML_Introduction/employee1.yml)
+- [YAML-5](https://github.com/Song1610/CKA/blob/main/YAML_Introduction/employee2.yml)
+- [YAML-6](https://github.com/Song1610/CKA/blob/main/YAML_Introduction/employee3.yml)
 - [솔루션 링크](#솔루션링크)
 ---
 
