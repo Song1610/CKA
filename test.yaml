@@ -15,3 +15,7 @@ spec:
         containers:
           - name: httpd-frontend
             image: httpd:2.4-alpine
+
+
+            kubectl create Deployment httpd-frontend --image=httpd:2.4-alpine --replicas=3
+            
