@@ -7,3 +7,4 @@ Udemy CKA study repositroy
 
 ---
 대충 여기에 cka 개념 좀 정리하고
+clone test
