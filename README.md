@@ -17,4 +17,4 @@ Udemy CKA study repositroy
 <img width="1530" height="684" alt="Image" src="https://github.com/user-attachments/assets/78f0494f-aeea-446d-aaa5-31737a1a1b46" />
 
 
-test
+test2
